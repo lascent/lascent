@@ -3,13 +3,10 @@
 
 ### Hi there,
 
-I'm a developer who enjoys building apps, experimenting with software, and turning ideas into real projects.
+I'm a full stack developer who enjoys building apps, experimenting with software, and turning ideas into real projects.
 
 Most of my work is focused on **Android development, emulation, game development, web systems, and UI/UX**. I like improving performance, polishing interfaces, and keeping projects simple, clean, and useful.
 
-Some of the projects I've worked on include **Retra**, Unity applications, Godot game prototypes, Firebase-based systems, and web projects.
-
-- ⚡ Fun fact: I can spend way too long polishing a UI until it feels just right.
 
 </details>
 
