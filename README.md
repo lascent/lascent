@@ -1,4 +1,4 @@
-# Hi,
+# Hi
 
 ## Find Me
 
@@ -8,49 +8,37 @@
 
 ---
 
-## Tech I Have Used
+### Tech I Have Used
 
-### Usually I Use
+###### A Lot
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-<br>
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Android](https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/ROBLOX%20STUDIO-00A2FF.svg?&style=for-the-badge&logo=robloxstudio&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white)
-<br>
+###### Some
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-<br>
-
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-<br>
-
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/ROBLOX_STUDIO-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
-
-### Sometimes I Use
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Ruby](https://img.shields.io/badge/RUBY-CC342D?style=flat-square&logo=ruby&logoColor=white)
-<br>
-
-![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Motion.dev](https://img.shields.io/badge/MOTION.DEV-FFF312?style=flat-square&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-<br>
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![React Native](https://img.shields.io/badge/REACT%20NATIVE-20232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![Motion.dev](https://img.shields.io/badge/MOTION.DEV-FFF312.svg?&style=for-the-badge&logo=framer&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
