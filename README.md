@@ -60,8 +60,6 @@
 |---|---|---|---|
 | **Retra** | Active | Android Emulator | [Repository](https://github.com/lascent/Retra) |
 | **Autotileset Generator** | Active | Pixel Autotile Generator | [Repository](https://github.com/lascent/autotileset-generator) |
-| **ForenSim AI** | Development | Unity / AR | Coming Soon |
-| **Reworlds** | Development | Godot Game | Coming Soon |
 
 ---
 
