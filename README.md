@@ -1,4 +1,4 @@
-# H,
+# Hi,
 
 ## 🔗 Find Me
 
@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -28,6 +29,7 @@
 
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
 ![Roblox Studio](https://img.shields.io/badge/ROBLOX_STUDIO-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
 
 ### Sometimes I Use
@@ -38,6 +40,7 @@
 
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Motion.dev](https://img.shields.io/badge/MOTION.DEV-FFF312?style=flat-square&logoColor=black)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -63,7 +66,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lascent&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lascent&theme=github_dark"
     alt="Zense GitHub Stats"
   />
 </p>
