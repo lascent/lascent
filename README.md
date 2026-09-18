@@ -1,6 +1,4 @@
-# Hi 👋
-
-I'm **Zense**, a developer interested in Android development, emulation, game development, and UI/UX.
+# Hi,
 
 ## 🔗 Find Me
 
@@ -12,22 +10,43 @@ I'm **Zense**, a developer interested in Android development, emulation, game de
 
 ## 🛠 Tech I Have Used
 
-### A Lot
+### Languages
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Some
-
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### Web & App Development
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Motion.dev](https://img.shields.io/badge/MOTION.DEV-FFF312?style=for-the-badge&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Mobile & Game Development
+
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -44,32 +63,8 @@ I'm **Zense**, a developer interested in Android development, emulation, game de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lascent&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lascent&show_icons=true&theme=github_dark&hide_border=true" alt="Zense GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lascent&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lascent&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔐 Keybase
-
-My public Keybase identity:
-
-**Username:** `zense1`
-
-[![Keybase Profile](https://img.shields.io/badge/View%20Keybase%20Profile-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/zense1)
-
-My public PGP key and fingerprint can be verified through my Keybase profile.
 
 ---
 
@@ -83,4 +78,10 @@ My public PGP key and fingerprint can be verified through my Keybase profile.
   <a href="https://keybase.io/zense1">Keybase</a>
   •
   <a href="https://www.instagram.com/kaze.yz/">Instagram</a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/zense">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
 </p>
