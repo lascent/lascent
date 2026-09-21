@@ -49,6 +49,7 @@
 | **Retra** | Active | Android Emulator | [Repository](https://github.com/lascent/Retra) |
 | **Autotileset Generator** | Active | Pixel Autotile Generator | [Repository](https://github.com/lascent/autotileset-generator) |
 | **Shopify UI Generator** | Active | Shopify Storefront UI Generator | [Repository](https://github.com/lascent/shopify-ui-generator) |
+| **Anti-Slop Codex** | Active | Codex & ChatGPT Quality Rules / Skills | [Repository](https://github.com/lascent/anti-slop-codex) |
 
 ---
 
